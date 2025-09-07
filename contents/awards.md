@@ -1,3 +1,1 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 最好的朋友奖：2021-2024年度最佳朋友奖，来自于SMageMyrddin的朋友们！

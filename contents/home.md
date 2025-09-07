@@ -1,20 +1,8 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![SMageMyrddin](https://i.imgur.com/v67y97L.png)](https://www.github.com/SMageMyrddin)](https://img.shields.io/badge/SMageMyrddin-github-blue?logo=github)](https://github.com/SMageMyrddin)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Echos lost,and I'm still here.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>smagemyrddin@gmail.com</code>  
+<code>2120175246@qq.com</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
